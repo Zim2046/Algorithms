@@ -21,7 +21,7 @@ function render(theDojo) {
   return result;
 }
     
-// TODO - Make this function tell us how many ninjas are hiding 
+// Make this function tell us how many ninjas are hiding 
 //        under the adjacent (all sides and corners) squares.
 //        Use i and j as the indexes to check theDojo.
 function howMany(i, j, element) {
